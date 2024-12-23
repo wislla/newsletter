@@ -1,6 +1,6 @@
 # Alura Newsletter
 
-Este é um projeto simples de formulário de inscrição para uma newsletter, criado para estudar e praticar o uso do framework CSS Tailwind CSS.
+Este é um projeto simples de formulário de inscrição para uma newsletter, desenvolvido no curso *Tailwind CSS: estilizando a sua página com classes utilitárias* para estudar e praticar o uso do framework CSS Tailwind CSS.
 
 # Sobre o Projeto
 
